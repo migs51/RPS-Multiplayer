@@ -1,0 +1,47 @@
+p{
+	color: red;
+}
+
+h1{
+	position: relative;
+	right: 30px;
+	background-color: 
+
+}
+
+
+.playerBox{
+
+	height: 200px;
+	width: 300px;
+	border-style: solid;
+	border-width: 5px
+	padding: 10px;
+}
+
+#player1{
+
+	float: left;
+	position: relative;
+	left: 20px;
+
+}
+
+#winBox{
+
+	position: relative;
+	float: right;
+	right: 1250px;
+}
+
+#player2{
+	float: right;
+	position: relative;;
+	right: 600px;
+
+}
+
+#boxes{
+	position: relative;
+	top: 125px;
+}
